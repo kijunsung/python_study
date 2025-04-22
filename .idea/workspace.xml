@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf811a94-b6ea-43ee-b514-b9aa74a74715" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/05_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/06_while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python_study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250422_1_basic" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ch01/collection.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/03_collection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ch01/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/04_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ch01/print.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/01_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ch01/type.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/02_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_notes/20250422.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250422.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
