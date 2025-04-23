@@ -6,3 +6,7 @@ print("Hello python", 123, end="!!!!!")
 print("진짜로 개행 안 하는지 확인") # ㅇㅇ 개행 안 했네
 
 # print(end="!!!", values=("Hello python", "test")) 이런 개념도 있기는 하다
+
+print("Hello, world!")       # 출력 함수
+length = len([1, 2, 3])
+

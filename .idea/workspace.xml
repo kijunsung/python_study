@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf811a94-b6ea-43ee-b514-b9aa74a74715" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_notes/20250422_1_basic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_5.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch01/08_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch01/set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch02/01_if.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch02/02_for.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch02/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/01_function01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_notes/20250422.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250422.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_notes/20250422_1_basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250422_1_basic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning_notes/20250422_2_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250422_2_list.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/01_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/01_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ch01/07_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/07_tuple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +61,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01_function01.executor": "Run",
     "Python.01_print.executor": "Run",
+    "Python.02_for.executor": "Run",
     "Python.02_type.executor": "Run",
     "Python.03_collection.executor": "Run",
     "Python.04_list.executor": "Run",
+    "Python.07_tuple.executor": "Run",
+    "Python.08_dict.executor": "Run",
     "Python.collection.executor": "Run",
+    "Python.if.executor": "Run",
     "Python.list.executor": "Run",
     "Python.print.executor": "Run",
+    "Python.set.executor": "Run",
     "Python.tuple.executor": "Run",
     "Python.type.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,7 +81,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/kijunsung/python_study",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
