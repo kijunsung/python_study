@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf811a94-b6ea-43ee-b514-b9aa74a74715" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_4.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_notes/20250423_5.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/08_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch01/set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch02/01_if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch02/02_for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch02/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch03/01_function01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch03/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/20250424_1.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/02_function02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/03_function_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/04_function04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch03/input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch04/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_notes/20250422_1_basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250422_1_basic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learning_notes/20250422_2_list.md" beforeDir="false" afterPath="$PROJECT_DIR$/learning_notes/20250422_2_list.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ch01/01_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/01_print.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ch01/07_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ch01/07_tuple.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +54,17 @@
     "Python.01_function01.executor": "Run",
     "Python.01_print.executor": "Run",
     "Python.02_for.executor": "Run",
+    "Python.02_function02.executor": "Run",
     "Python.02_type.executor": "Run",
     "Python.03_collection.executor": "Run",
+    "Python.03_function_02.md.executor": "Run",
+    "Python.04_function04.executor": "Run",
     "Python.04_list.executor": "Run",
     "Python.07_tuple.executor": "Run",
     "Python.08_dict.executor": "Run",
     "Python.collection.executor": "Run",
     "Python.if.executor": "Run",
+    "Python.input.executor": "Run",
     "Python.list.executor": "Run",
     "Python.print.executor": "Run",
     "Python.set.executor": "Run",
