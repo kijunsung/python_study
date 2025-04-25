@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf811a94-b6ea-43ee-b514-b9aa74a74715" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/learning_notes/20250424_1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch03/02_function02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch03/03_function_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch03/04_function04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch03/input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/ch04/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch04/class01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch04/class02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch04/class03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/module01_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/module01_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/module01_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch05/module01_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ch06/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,35 +54,164 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01_function01.executor": "Run",
-    "Python.01_print.executor": "Run",
-    "Python.02_for.executor": "Run",
-    "Python.02_function02.executor": "Run",
-    "Python.02_type.executor": "Run",
-    "Python.03_collection.executor": "Run",
-    "Python.03_function_02.md.executor": "Run",
-    "Python.04_function04.executor": "Run",
-    "Python.04_list.executor": "Run",
-    "Python.07_tuple.executor": "Run",
-    "Python.08_dict.executor": "Run",
-    "Python.collection.executor": "Run",
-    "Python.if.executor": "Run",
-    "Python.input.executor": "Run",
-    "Python.list.executor": "Run",
-    "Python.print.executor": "Run",
-    "Python.set.executor": "Run",
-    "Python.tuple.executor": "Run",
-    "Python.type.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/kijunsung/python_study",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_function01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_for.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_function02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_type.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_function_02.md.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_function04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07_tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08_dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.collection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module01_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module01_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.module01_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.type.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/kijunsung/python_study&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Python.exception">
+    <configuration name="class03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/ch04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/ch04/class03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/ch06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/ch06/exception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="module01_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/ch05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/ch05/module01_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="module01_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_study" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/ch05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main/ch05/module01_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exception" />
+        <item itemvalue="Python.class03" />
+        <item itemvalue="Python.module01_1" />
+        <item itemvalue="Python.module01_4" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
